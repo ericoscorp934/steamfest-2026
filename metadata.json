@@ -1,0 +1,6 @@
+{
+  "name": "STEAMFEST 2026",
+  "description": "Clean, bright, modern platform for the 16-week children's STEAM education festival running 1 July to 18 October 2026 in Tropicana Metropark, Malaysia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

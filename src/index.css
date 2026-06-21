@@ -1,0 +1,46 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800;900&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Montserrat", sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: #ffffff;
+  color: #1a1a1a;
+  overflow-x: hidden;
+}
+
+/* Custom categories themes and animations */
+.category-badge-red {
+  background-color: #FDEDEC;
+  color: #E63946;
+}
+
+.category-badge-teal {
+  background-color: #E6F7F8;
+  color: #0FB5BA;
+}
+
+.category-badge-navy {
+  background-color: #ECECF2;
+  color: #1A1A40;
+}
+
+.category-badge-amber {
+  background-color: #FEF8E7;
+  color: #FBBF24;
+}
+
+/* Card hover scaling effect */
+.hover-lift {
+  transition: transform 0.25s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.25s ease;
+}
+.hover-lift:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 24px -10px rgba(26, 26, 26, 0.1);
+}
