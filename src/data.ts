@@ -309,7 +309,7 @@ export const ICONS: Icon[] = [
       "Awarded Malaysian Youth Educator of the Year in 2023"
     ],
     weekId: 1,
-    imagePlaceholder: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&q=80&w=300"
+    imagePlaceholder: "/src/assets/images/coach-jacky-cheng.jpg"
   },
   {
     id: "dr-amalina-bakri",
@@ -328,7 +328,7 @@ export const ICONS: Icon[] = [
       "Top SPM Scorer in Malaysian history"
     ],
     weekId: 2,
-    imagePlaceholder: "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&q=80&w=300"
+    imagePlaceholder: "/src/assets/images/dr-amalina-bakri.jpg"
   },
   {
     id: "vivy-yusof",
@@ -347,7 +347,7 @@ export const ICONS: Icon[] = [
       "Lead voice inspiring Malaysian youth towards digital commerce startup models"
     ],
     weekId: 3,
-    imagePlaceholder: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=300"
+    imagePlaceholder: "/src/assets/images/vivy-yusof.jpg"
   },
   {
     id: "karl-ho",
@@ -366,7 +366,7 @@ export const ICONS: Icon[] = [
       "Voted Lead Educator by the Malaysian Institution of Civil Engineers"
     ],
     weekId: 4,
-    imagePlaceholder: "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&q=80&w=300"
+    imagePlaceholder: "/src/assets/images/karl-ho.jpg"
   },
   {
     id: "michelle-yeoh",
@@ -385,7 +385,7 @@ export const ICONS: Icon[] = [
       "First Malaysian to capture global cinema's absolute highest honors"
     ],
     weekId: 5,
-    imagePlaceholder: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=300"
+    imagePlaceholder: "/src/assets/images/michelle-yeoh.jpg"
   },
   {
     id: "lee-chong-wei",
@@ -404,7 +404,7 @@ export const ICONS: Icon[] = [
       "Recipient of the National Sports Icon award in Malaysia"
     ],
     weekId: 6,
-    imagePlaceholder: "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&q=80&w=300"
+    imagePlaceholder: "/src/assets/images/lee-chong-wei.jpg"
   },
   {
     id: "joe-fang",
@@ -423,7 +423,7 @@ export const ICONS: Icon[] = [
       "Engineered clean carbon-neutral thermal systems for urban workspaces"
     ],
     weekId: 7,
-    imagePlaceholder: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=300"
+    imagePlaceholder: "/src/assets/images/joe-fang.jpg"
   },
   {
     id: "mranti",
@@ -442,7 +442,7 @@ export const ICONS: Icon[] = [
       "Leading technical bridge between engineering universities and commercial space"
     ],
     weekId: 8,
-    imagePlaceholder: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&q=80&w=300"
+    imagePlaceholder: "/src/assets/images/mranti.jpg"
   },
   {
     id: "karl-ho-machines",
@@ -461,7 +461,7 @@ export const ICONS: Icon[] = [
       "Supplied custom mechanical leverage structures featured in construction models"
     ],
     weekId: 9,
-    imagePlaceholder: "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&q=80&w=300"
+    imagePlaceholder: "/src/assets/images/karl-ho-machines.jpg"
   },
   {
     id: "namewee",
@@ -480,7 +480,7 @@ export const ICONS: Icon[] = [
       "A true cultural trendsetter for high-velocity internet media formats"
     ],
     weekId: 10,
-    imagePlaceholder: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&q=80&w=300"
+    imagePlaceholder: "/src/assets/images/namewee.jpg"
   },
   {
     id: "dr-eva-wong",
@@ -499,7 +499,7 @@ export const ICONS: Icon[] = [
       "Distinguished academic lecturer on database algorithms and modern ethics"
     ],
     weekId: 11,
-    imagePlaceholder: "https://images.unsplash.com/photo-1551836022-d5d88e9218df?auto=format&fit=crop&q=80&w=300"
+    imagePlaceholder: "/src/assets/images/dr-eva-wong.jpg"
   },
   {
     id: "kpj-healthcare",
@@ -518,7 +518,7 @@ export const ICONS: Icon[] = [
       "Trained thousands of biomedical support staff and nurses in SE Asia"
     ],
     weekId: 12,
-    imagePlaceholder: "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&q=80&w=300"
+    imagePlaceholder: "/src/assets/images/kpj-healthcare.jpg"
   },
   {
     id: "mdec",
@@ -537,7 +537,7 @@ export const ICONS: Icon[] = [
       "Leading coordinator for ASEAN digital trade summits"
     ],
     weekId: 13,
-    imagePlaceholder: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&q=80&w=300"
+    imagePlaceholder: "/src/assets/images/mdec.jpg"
   },
   {
     id: "wwf-malaysia",
@@ -556,7 +556,7 @@ export const ICONS: Icon[] = [
       "Pioneered school climate education workshops used nationwide"
     ],
     weekId: 14,
-    imagePlaceholder: "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=300"
+    imagePlaceholder: "/src/assets/images/wwf-malaysia.jpg"
   },
   {
     id: "joe-fang-project",
@@ -575,7 +575,7 @@ export const ICONS: Icon[] = [
       "Recipient of National Ecotech Innovation Medals"
     ],
     weekId: 15,
-    imagePlaceholder: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=300"
+    imagePlaceholder: "/src/assets/images/joe-fang-project.jpg"
   },
   {
     id: "coach-jacky-cheng-panel",
@@ -594,7 +594,7 @@ export const ICONS: Icon[] = [
       "A collective panel with 80+ combined years in design and technology pedagogy"
     ],
     weekId: 16,
-    imagePlaceholder: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?auto=format&fit=crop&q=80&w=300"
+    imagePlaceholder: "/src/assets/images/coach-jacky-cheng-panel.jpg"
   }
 ];
 
