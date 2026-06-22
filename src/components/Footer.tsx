@@ -25,7 +25,7 @@ export default function Footer({ navigateTo }: FooterProps) {
               </span>
             </div>
             <p className="text-gray-500 text-sm max-w-sm mb-6 leading-relaxed">
-              Malaysia's longest and most immersive children's STEAM festival. 16 consecutive Sundays of technology coding, robotic challenges, and arts designed to empower global thinkers.
+              Malaysia's longest and most immersive children's STEAM festival. 16 consecutive weekends of technology coding, robotic challenges, and arts designed to empower global thinkers.
             </p>
             <div className="flex items-center space-x-4">
               <a
