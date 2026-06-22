@@ -230,7 +230,7 @@ export default function HomeView({ navigateTo }: HomeViewProps) {
                 Designed For Families. Built For Safe Discoveries.
               </h3>
               <p className="text-gray-300 text-xs sm:text-sm leading-relaxed">
-                Every Sunday session undergoes check-safe security protocol reviews. Kids are guided by trained safety educators from Genius Minds and certified medical practitioners, with children's play kits calibrated specifically for student hands.
+                Every weekend session undergoes check-safe security protocol reviews. Kids are guided by trained safety educators from Genius Minds and certified medical practitioners, with children's play kits calibrated specifically for student hands.
               </p>
             </div>
             <div className="shrink-0 flex flex-col items-center bg-white/5 border border-white/10 rounded-2xl p-6 text-center max-w-xs z-10">
