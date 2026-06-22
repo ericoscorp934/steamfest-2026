@@ -19,7 +19,7 @@ export default function IconsView({ navigateTo }: IconsViewProps) {
             Meet the Malaysia Icons
           </h1>
           <p className="text-gray-500 text-sm sm:text-base leading-relaxed font-sans">
-            16 celebrated researchers, leaders, and artists joining sub-panels throughout our 16 Sundays, inspiring kids with real-life grit and victory.
+            16 celebrated researchers, leaders, and artists joining sub-panels throughout our 16 weekends, inspiring kids with real-life grit and victory.
           </p>
         </div>
 
