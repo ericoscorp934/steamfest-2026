@@ -90,7 +90,7 @@ export default function ChallengeDetailView({ challengeId, navigateTo }: Challen
               Category: {challenge.category}
             </span>
             <span>&bull;</span>
-            <span className="flex items-center"><Calendar className="h-4 w-4 mr-1 text-[#E63946]" /> 1 Sunday</span>
+            <span className="flex items-center"><Calendar className="h-4 w-4 mr-1 text-[#E63946]" /> 1 weekend</span>
           </div>
         </div>
       </section>
@@ -101,7 +101,7 @@ export default function ChallengeDetailView({ challengeId, navigateTo }: Challen
         <div className="lg:col-span-8 space-y-8">
           <div className="space-y-4">
             <h2 className="font-display font-extrabold text-xl sm:text-2xl text-[#1A1A1A] tracking-tight">
-              About This Sunday Station
+              About This Weekend Station
             </h2>
             {challenge.descriptionParagraphs.map((para, i) => (
               <p key={i} className="text-gray-600 text-sm sm:text-base leading-relaxed font-sans">
@@ -173,10 +173,10 @@ export default function ChallengeDetailView({ challengeId, navigateTo }: Challen
               Attend This Week
             </h4>
             <p className="text-gray-300 text-xs leading-normal">
-              Tickets are limited to 120 children per Sunday to ensure premium, high-density focus from our coaches.
+              Tickets are limited to 120 children per weekend to ensure premium, high-density focus from our coaches.
             </p>
             <div className="py-2.5 border-t border-b border-white/10 text-xs space-y-1.5 font-mono">
-              <p className="flex justify-between"><span>Sunday Ticket:</span> <strong className="text-[#0FB5BA]">RM 45</strong></p>
+              <p className="flex justify-between"><span>Weekend Ticket:</span> <strong className="text-[#0FB5BA]">RM 45</strong></p>
               <p className="flex justify-between"><span>Includes:</span> <strong className="text-white">All kits & journal</strong></p>
             </div>
             <a
