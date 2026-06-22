@@ -823,11 +823,11 @@ export const SCHOOL_EVENTS: SchoolEvent[] = [
 export const FAQS = [
   {
     question: "What is STEAMFEST 2026?",
-    answer: "STEAMFEST 2026 is Asia's longest STEAM education festival for kids organized by Genius Minds. It runs for 16 consecutive Sundays from 1 July to 18 October 2026 at Southplace Residences, Tropicana Metropark, Malaysia. Every Sunday, we offer hands-on challenge stations centering on single themes, featuring Malaysian guest icons, industry partners, and school showcases."
+    answer: "STEAMFEST 2026 is Asia's longest STEAM education festival for kids organized by Genius Minds. It runs for 16 consecutive Sundays from 24 July to 31 October 2026 at Southplace Residences, Tropicana Metropark, Malaysia. Every Sunday, we offer hands-on challenge stations centering on single themes, featuring Malaysian guest icons, industry partners, and school showcases."
   },
   {
     question: "When and where is it held?",
-    answer: "The festival takes place every Sunday from 1 July to 18 October 2026 from 10:00 AM to 5:00 PM. The venue is Southplace Residences, Tropicana Metropark, Subang Jaya, Selangor, Malaysia. It boasts a beautiful, family-friendly space with lakes, parking, and cafes."
+    answer: "The festival takes place every Sunday from 24 July to 31 October 2026 from 10:00 AM to 5:00 PM. The venue is Southplace Residences, Tropicana Metropark, Subang Jaya, Selangor, Malaysia. It boasts a beautiful, family-friendly space with lakes, parking, and cafes."
   },
   {
     question: "What age group is it for?",
@@ -835,7 +835,7 @@ export const FAQS = [
   },
   {
     question: "Do we attend every Sunday or pick specific weeks?",
-    answer: "You have complete flexibility! You can sign up for a Single-Sunday pass for specific themes (e.g., Week 3 for Coding, or Week 8 for Robotics), or purchase the 'Mega-STEAM Scholar Pass' which unlocks all 16 Sundays, complete with a physical Inventor Journal and stamp catalog."
+    answer: "You have complete flexibility! You can sign up for a Single-Sunday pass for specific themes (e.g., Week 3 for Coding, or Week 8 for Robotics), or purchase the 'Mega-STEAM Scholar Pass' which unlocks all 16 weekends, complete with a physical Inventor Journal and stamp catalog."
   },
   {
     question: "How much does it cost, and what does registration include?",
