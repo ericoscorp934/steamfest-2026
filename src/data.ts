@@ -773,7 +773,7 @@ export const SCHOOL_EVENTS: SchoolEvent[] = [
   {
     id: "robotics-battle",
     name: "Inter-School Robotics Battle",
-    date: "A Sunday in September 2026",
+    date: "A weekend in September 2026",
     time: "10:00 AM - 4:00 PM (Main Stage)",
     teaser: "Schools across Malaysia go head-to-head in a live robotics arena on the festival's main stage.",
     descriptionParagraphs: [
@@ -789,7 +789,7 @@ export const SCHOOL_EVENTS: SchoolEvent[] = [
   {
     id: "young-inventors",
     name: "Young Inventors Showcase",
-    date: "A Sunday in October 2026",
+    date: "A weekend in October 2026",
     time: "11:00 AM - 5:00 PM (Exhibition Hall)",
     teaser: "A prestigious national stage where young creators display original inventions judged by tech leaders.",
     descriptionParagraphs: [
@@ -805,7 +805,7 @@ export const SCHOOL_EVENTS: SchoolEvent[] = [
   {
     id: "talent-night",
     name: "STEAMFest Talent Night",
-    date: "A Sunday in October 2026",
+    date: "A weekend in October 2026",
     time: "6:00 PM - 9:00 PM (Amphitheatre)",
     teaser: "An arts-and-technology performance fusing dance, music, optical projections, and live code visuals.",
     descriptionParagraphs: [
@@ -823,23 +823,23 @@ export const SCHOOL_EVENTS: SchoolEvent[] = [
 export const FAQS = [
   {
     question: "What is STEAMFEST 2026?",
-    answer: "STEAMFEST 2026 is Asia's longest STEAM education festival for kids organized by Genius Minds. It runs for 16 consecutive Sundays from 24 July to 31 October 2026 at Southplace Residences, Tropicana Metropark, Malaysia. Every Sunday, we offer hands-on challenge stations centering on single themes, featuring Malaysian guest icons, industry partners, and school showcases."
+    answer: "STEAMFEST 2026 is Asia's longest STEAM education festival for kids organized by Genius Minds. It runs for 16 consecutive weekends from 24 July to 31 October 2026 at Southplace Residences, Tropicana Metropark, Malaysia. Every weekend, we offer hands-on challenge stations centering on single themes, featuring Malaysian guest icons, industry partners, and school showcases."
   },
   {
     question: "When and where is it held?",
-    answer: "The festival takes place every Sunday from 24 July to 31 October 2026 from 10:00 AM to 5:00 PM. The venue is Southplace Residences, Tropicana Metropark, Subang Jaya, Selangor, Malaysia. It boasts a beautiful, family-friendly space with lakes, parking, and cafes."
+    answer: "The festival takes place every weekend from 24 July to 31 October 2026 from 10:00 AM to 5:00 PM. The venue is Southplace Residences, Tropicana Metropark, Subang Jaya, Selangor, Malaysia. It boasts a beautiful, family-friendly space with lakes, parking, and cafes."
   },
   {
     question: "What age group is it for?",
     answer: "Our challenge stations are designed for children aged 5 to 16. Activities are divided into three tiers: Junior Explorers (Ages 5-8), Tech Innovators (Ages 9-12), and Future Masters (Ages 13-16), ensuring every challenge is highly age-appropriate and engaging."
   },
   {
-    question: "Do we attend every Sunday or pick specific weeks?",
-    answer: "You have complete flexibility! You can sign up for a Single-Sunday pass for specific themes (e.g., Week 3 for Coding, or Week 8 for Robotics), or purchase the 'Mega-STEAM Scholar Pass' which unlocks all 16 weekends, complete with a physical Inventor Journal and stamp catalog."
+    question: "Do we attend every weekend or pick specific weeks?",
+    answer: "You have complete flexibility! You can sign up for a Single-Weekend pass for specific themes (e.g., Week 3 for Coding, or Week 8 for Robotics), or purchase the 'Mega-STEAM Scholar Pass' which unlocks all 16 weekends, complete with a physical Inventor Journal and stamp catalog."
   },
   {
     question: "How much does it cost, and what does registration include?",
-    answer: "A Single-Sunday Pass is RM 45 per child. The Mega-STEAM Scholar Pass (all 16 weeks) is RM 480 (saving over RM 240). Every ticket includes full access to all engineering assets, partner kits (LEGO, DJI, Sphero), guest discussions, and a take-home build item."
+    answer: "A Single-Weekend Pass is RM 45 per child. The Mega-STEAM Scholar Pass (all 16 weeks) is RM 480 (saving over RM 240). Every ticket includes full access to all engineering assets, partner kits (LEGO, DJI, Sphero), guest discussions, and a take-home build item."
   },
   {
     question: "Are parents allowed to join the activities?",
@@ -847,7 +847,7 @@ export const FAQS = [
   },
   {
     question: "What should children bring to the festival?",
-    answer: "Just bringing their healthy curiosity is enough! All components, protective goggles, writing pads, and material boards are provided by Genius Minds. Kids with Mega Passes should bring their custom 'Festival Inventor Journal' each Sunday to earn stamps."
+    answer: "Just bringing their healthy curiosity is enough! All components, protective goggles, writing pads, and material boards are provided by Genius Minds. Kids with Mega Passes should bring their custom 'Festival Inventor Journal' each weekend to earn stamps."
   },
   {
     question: "Is food and refreshment available at the venue?",
@@ -859,6 +859,6 @@ export const FAQS = [
   },
   {
     question: "How do I register?",
-    answer: "Registration is simple! Click any 'Register Now' button on this website to go to our official Eventbrite checkout portal. Select your ticket types (Scholar Pass or Single-Sunday options) and complete your payment to secure your ticket immediately."
+    answer: "Registration is simple! Click any 'Register Now' button on this website to go to our official Eventbrite checkout portal. Select your ticket types (Scholar Pass or Single-Weekend options) and complete your payment to secure your ticket immediately."
   }
 ];
