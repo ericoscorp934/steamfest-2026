@@ -25,7 +25,7 @@ export default function HomeView({ navigateTo }: HomeViewProps) {
                 STEAMFEST <br/><span className="text-[#E63946]">2026</span>
               </h1>
               <p className="font-sans text-xl sm:text-2xl font-bold text-[#1A1A40] opacity-90">
-                16 Sundays of Innovation, Robotics, Coding & Arts
+                16 weekends of Innovation, Robotics, Coding & Arts
               </p>
               <p className="text-gray-500 max-w-md leading-relaxed font-sans mx-auto lg:mx-0">
                 A hands-on festival where kids explore, experiment, and create — guided by Malaysia's most inspiring icons at Southplace, Tropicana Metropark.
@@ -87,7 +87,7 @@ export default function HomeView({ navigateTo }: HomeViewProps) {
               <div className="w-10 h-10 rounded-full bg-[#E63946] flex items-center justify-center text-white text-base">📅</div>
               <div>
                 <p className="text-[10px] font-bold text-gray-400 uppercase">Duration</p>
-                <p className="text-sm font-bold text-[#1A1A1A]">16 Sundays</p>
+                <p className="text-sm font-bold text-[#1A1A1A]">16 weekends</p>
               </div>
             </div>
             <div className="flex items-center gap-3 sm:border-l sm:pl-6 border-gray-100">
@@ -256,7 +256,7 @@ export default function HomeView({ navigateTo }: HomeViewProps) {
           Don't Miss STEAMFEST 2026
         </h2>
         <p className="text-[#1A1A40] font-semibold text-sm sm:text-base">
-          📍 Southplace, Tropicana Metropark &bull; 📅 1 July to 18 October 2026
+          📍 Southplace, Tropicana Metropark &bull; 📅 24 July to 31 October 2026
         </p>
         <div className="pt-2">
           <a
