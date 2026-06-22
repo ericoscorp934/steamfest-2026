@@ -47,13 +47,13 @@ export default function ChallengesView({ navigateTo }: ChallengesViewProps) {
         {/* Page Header */}
         <div className="text-center max-w-3xl mx-auto mb-16 space-y-4">
           <span className="font-mono text-xs font-black tracking-widest text-[#E63946] bg-[#FDEDEC] px-3.5 py-1.5 rounded-full inline-block">
-            16 SUNDAYS &bull; 16 THEMES
+            16 WEEKENDS &bull; 16 THEMES
           </span>
           <h1 className="font-display font-black text-3xl sm:text-4xl lg:text-5xl text-[#1A1A1A] tracking-tight">
             16 STEAM Challenge Stations
           </h1>
           <p className="text-gray-500 text-sm sm:text-base leading-relaxed">
-            Every Sunday is a new gateway to technology and arts. Find single themes matching your child's interests or unlock the general scholar calendar!
+            Every weekend is a new gateway to technology and arts. Find single themes matching your child's interests or unlock the general scholar calendar!
           </p>
         </div>
 
@@ -106,7 +106,7 @@ export default function ChallengesView({ navigateTo }: ChallengesViewProps) {
             Want to attend all 16 challenge weeks?
           </h3>
           <p className="text-sm text-gray-600 max-w-xl mx-auto leading-relaxed">
-            The <strong>Mega-STEAM Scholar Pass</strong> includes a personal physical Inventor Journal, weekly stamp badges, and saves you over RM 240 on individual standard Sunday tickets.
+            The <strong>Mega-STEAM Scholar Pass</strong> includes a personal physical Inventor Journal, weekly stamp badges, and saves you over RM 240 on individual standard weekend tickets.
           </p>
           <div className="pt-2">
             <a
